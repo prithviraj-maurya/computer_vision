@@ -1,3 +1,5 @@
+## Please refer to luxpm_computer_vision_task.ipynb file for solution.
+
 # computer_vision
 
 Hello,
